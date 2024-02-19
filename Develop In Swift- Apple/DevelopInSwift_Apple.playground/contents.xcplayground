@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='What Is a Playground'/>
+        <page name='ConstantAndVariables'/>
+        <page name='CalculationsNOperators'/>
+        <page name='DrawCircleInPlayground'/>
+        <page name='PracticeExercise1'/>
+        <page name='StringHandling'/>
+        <page name='StringApplyAndExtend'/>
+        <page name='MoreThanStrings'/>
+        <page name='StringsTheGreatEscape'/>
+        <page name='StringEscapeSequences'/>
+        <page name='StringExerciseMakingAList'/>
+        <page name='StringExerciseARestaurant'/>
+        <page name='StringExerciseGoFightWin'/>
+        <page name='StringExerciseDisplayValues'/>
+        <page name='StringWhatCanYouPrint'/>
+        <page name='ConstantAndVariable'/>
+        <page name='DeclaringVariables'/>
+        <page name='WorkingWithVariables'/>
+        <page name='WorkingWithVariablesShortcut'/>
+        <page name='VariablesConfusingChanges'/>
+    </pages>
+</playground>
