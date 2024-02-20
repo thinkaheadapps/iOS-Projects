@@ -30,5 +30,11 @@
         <page name='FunctionsWithinFunctions'/>
         <page name='FunctionInfiniteLoops'/>
         <page name='FunctionHidingComplexity'/>
+        <page name='TypesAndLiterals'/>
+        <page name='TypeInferenceFromAssignment'/>
+        <page name='TypeAnnotation'/>
+        <page name='WhereDoTypesComeFrom'/>
+        <page name='ImportingFramework'/>
+        <page name='ExerciseCircles'/>
     </pages>
 </playground>
