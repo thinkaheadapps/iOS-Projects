@@ -36,5 +36,11 @@
         <page name='WhereDoTypesComeFrom'/>
         <page name='ImportingFramework'/>
         <page name='ExerciseCircles'/>
+        <page name='FunctionParametersAndResults'/>
+        <page name='FunctionFromSpecificToGeneral'/>
+        <page name='FunctionYourFavoriteFood'/>
+        <page name='FunctionPassingMoreValues'/>
+        <page name='FunctionOtherFavoriteThings'/>
+        <page name='FunctionGettingValuesBack'/>
     </pages>
 </playground>
