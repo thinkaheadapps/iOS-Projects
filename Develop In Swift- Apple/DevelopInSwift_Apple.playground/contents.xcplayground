@@ -42,5 +42,16 @@
         <page name='FunctionPassingMoreValues'/>
         <page name='FunctionOtherFavoriteThings'/>
         <page name='FunctionGettingValuesBack'/>
+        <page name='FunctionGivingValuesBack'/>
+        <page name='FunctionKindsOfFunction'/>
+        <page name='FunctionBuildingBlocks'/>
+        <page name='FunctionControlFlow'/>
+        <page name='FunctionNaming'/>
+        <page name='FunctionParameterNamesArgumentLabels'/>
+        <page name='FunctionArgumentWithoutName'/>
+        <page name='FunctionVerbingYourNoun'/>
+        <page name='FunctinUsingReturnValues'/>
+        <page name='FunctionArgumentLabel'/>
+        <page name='FunctionNoArgumentLabel'/>
     </pages>
 </playground>

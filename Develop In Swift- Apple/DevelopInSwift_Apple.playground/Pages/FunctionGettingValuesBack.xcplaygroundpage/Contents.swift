@@ -38,6 +38,23 @@ print(namedVideoMessage)
  Exercise: Try making your own function that returns a value.
  */
 
+/*
+ Function to get Area for circle
+  */
+
+func getCircleArea(radious: Double ) -> Double {
+    var result:Double = 0
+    result = 3.14 * radious * radious
+    return result
+}
+
+var circleArea: Double = getCircleArea(radious: 8)
+print(circleArea)
+
+/*
+ Function To get Volume of Sphare
+ Volume of a sphere having radius R is given by (4 * π * R3) / 3.
+ */
 
 
 
