@@ -5,9 +5,9 @@ import Foundation
 /*
  Now you’ve learned that functions can also:
 
- Take information in
- Do work
- Return information
+ 1. Take information in
+ 2. Do work
+ 3. Return information
 
  Building blocks like this are much more powerful.
 

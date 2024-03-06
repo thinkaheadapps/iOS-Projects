@@ -56,7 +56,22 @@ print(circleArea)
  Volume of a sphere having radius R is given by (4 * π * R3) / 3.
  */
 
+func getSphareVolume(radious: Double) -> Double {
+    var result: Double = 0
+    result = (4 * 3.14 * radious * radious * radious) / 3
+    return result
+}
 
+var sphareVolume = getSphareVolume(radious: 8)
+print(sphareVolume)
+
+func subtract(oneNumber: Int, fromAnotherNumber: Int) -> Int {
+    return fromAnotherNumber - oneNumber
+}
+
+var sResult = subtract(oneNumber: 5, fromAnotherNumber: 10)
+
+print("Subtraction: " + String(sResult))
 
 
 

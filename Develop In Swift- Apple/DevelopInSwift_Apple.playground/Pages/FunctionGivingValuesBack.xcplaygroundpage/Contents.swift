@@ -41,5 +41,9 @@ print(myFavFood)
 let myFavSchool = makeFavorite(categoryOfThings: "School", favorite: "LVIS")
 print(myFavSchool)
 
+var favNumber : Int = 7
+
+print("Hello, My name is Divya .\(myFavMovie) \(myFavFood) \(myFavSchool) and favorite number \(favNumber) ")
+
 
 

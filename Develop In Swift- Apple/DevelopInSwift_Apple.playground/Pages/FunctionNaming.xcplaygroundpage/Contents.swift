@@ -8,5 +8,11 @@ func printHello(to: String) {
 printHello(to: "Maya")
 
 func getTheFirstLetter(of:String) {
+    var str: String = of
+    var result = str.prefix(1)
+    print(result)
     
 }
+
+getTheFirstLetter(of: "Divya")
+

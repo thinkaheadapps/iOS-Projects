@@ -2,7 +2,9 @@
 
 import Foundation
 
-
+/*
+ The order that code executes in a program is called control flow.
+ */
 
 func listByAdding(item: String, toList: String) -> String {
     let newList = toList + "\n-" + item

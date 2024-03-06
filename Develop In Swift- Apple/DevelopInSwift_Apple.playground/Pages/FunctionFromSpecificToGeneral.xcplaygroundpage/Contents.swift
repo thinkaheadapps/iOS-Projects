@@ -25,6 +25,10 @@ func helloJohnny() {
 
 helloJohnny()
 
+/*
+  The `hello` function can now be said to have a _parameter_, called `name`, of type `String`.
+  */
+
 func hello(name: String) {
     print("Hello " + name)
 }
