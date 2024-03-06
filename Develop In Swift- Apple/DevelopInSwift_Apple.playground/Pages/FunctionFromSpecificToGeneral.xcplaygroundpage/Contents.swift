@@ -2,6 +2,22 @@
 
 import Foundation
 
+/*
+ Function declaration:-
+ func
+ functionName
+ within paranthesis :- parameter name and annotation.
+ */
+
+
+ 
+ /*:
+  Inside the body of the function, `name` can be used just like the constant in `helloJohnny()` above.
+  
+  The `hello` function can now be said to have a _parameter_, called `name`, of type `String`.
+
+ */
+
 func helloJohnny() {
     let name = "Johnny"
     print("Hello " + name)
